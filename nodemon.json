@@ -1,0 +1,8 @@
+{
+  "env": {
+    "MONGO_DB": "forum-real-time",
+    "MONGO_PASSWORD": "bijDchuJ71Z0ke0B",
+    "MONGO_USER": "spectrox",
+    "REDIS_PASSWORD": "hFWWUyFKYtEv2AZNdByUDw8vZTv9POOl"
+  }
+}
